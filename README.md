@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Povilas Mackevičius and I am a student at Vilnius Tech University currently studying Multimedia and Computer Dessign.
+- 👋 Hi, I’m Povilas Mackevičius and I am a student at Vilnius Tech University currently studying Multimedia and Computer Design.
 - 👀 I’m am really interested in Web development (Frontend) and anything that surrounds it.
 - 🌱 I’m currently perfecting my Javascript, HTML, CSS, React.js skills and looking for a job in Frontend development area.
 - 📫 You can contact me on:
