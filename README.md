@@ -5,7 +5,7 @@
       Gmail: mackevicius.pmac@gmail.com \
       LinkedIn: www.linkedin.com/in/povilas-mackevičius-0b8b41192 \
       Instagram: @mackeviciusp \
-      Facebook: Povilas Mackevičius \
+      Facebook: Povilas Mackevičius 
 
 <!---
 mackevicius/mackevicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
