@@ -23,7 +23,7 @@ In the subsequent year, I transitioned to Angular, contributing significantly to
 I take pride in contributing to the success of Reiz Tech and look forward to continued growth in innovative and challenging projects. Let's connect and build something amazing together! 🌐💻
 
 
-📫 You can contact me on:
+📫 You can contact me on: \
       Gmail: mackevicius.pmac@gmail.com \
       LinkedIn: https://www.linkedin.com/in/povilas-mackevicius/ \
       Facebook: Povilas Mackevičius 
