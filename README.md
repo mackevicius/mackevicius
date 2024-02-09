@@ -10,7 +10,7 @@ In the subsequent year, I transitioned to Angular, contributing significantly to
 🛠️ **Key Technologies and Tools:**
 - React.js, Angular, Typescript, SCSS, JavaScript, Next.js
 - Azure DevOps, Teams, Scrum, Agile
-- CosmosDB, Ant Design library, Zeplin, Karma
+- CosmosDB, Ant Design library, Radix UI, Tailwind, Zeplin, Karma
 
 👨‍🎓 **Education:**
 - Bachelors in Software Development | Vilnius Gediminas Technical University | Sep 2019 - Jun 2023
