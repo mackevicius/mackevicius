@@ -1,6 +1,6 @@
 🚀 Frontend Developer at Reiz Tech | BSc (Hons) in Software Development
 
-Hi there! 👋 I'm Povilas Mackevicius, a passionate Frontend Developer with over 2 years of experience in crafting engaging and user-friendly web applications at Reiz Tech. Armed with a Bachelors degree in Software Development from Vilnius Gediminas Technical University, I've honed my skills in web design, coding, testing, debugging, and problem-solving.
+Hi there! 👋 I'm Povilas Mackevicius, a passionate Frontend Developer with over 4 years of experience in crafting engaging and user-friendly web applications at Reiz Tech. Armed with a Bachelors degree in Software Development from Vilnius Gediminas Technical University, I've honed my skills in web design, coding, testing, debugging, and problem-solving.
 
 🛠️ **Experience:**
 In my role at Reiz Tech, I've been instrumental in shaping the technological landscape, specializing in frontend development using technologies like React.js, Typescript, SCSS, and Angular. I've successfully managed project workflows through Azure DevOps, collaborated with cross-functional teams via Teams, and embraced Agile and Scrum methodologies. I played a pivotal role in a significant project for an accounting company, implementing key features and spearheading the migration of projects to React.
