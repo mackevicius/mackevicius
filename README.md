@@ -8,7 +8,7 @@ In my role at Reiz Tech, I've been instrumental in shaping the technological lan
 In the subsequent year, I transitioned to Angular, contributing significantly to highly profitable projects for a prominent USA-based client. My responsibilities expanded beyond coding as I took charge of presenting developed features directly to the client, fostering effective communication and ensuring alignment with project objectives.
 
 🛠️ **Key Technologies and Tools:**
-- React.js, Angular, Typescript, SCSS, JavaScript, Next.js
+- Angular, React.js, Typescript, SCSS, JavaScript, Next.js
 - Azure DevOps, Teams, Scrum, Agile
 - CosmosDB, Ant Design library, Radix UI, Tailwind, Zeplin, Karma
 
