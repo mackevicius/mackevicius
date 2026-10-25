@@ -6,12 +6,9 @@ I've spent 5+ years building enterprise web apps. I work across Angular, React, 
 
 ## What I do
 
-- **Ship features end to end** for a leading U.S. professional services platform with hundreds of thousands of users. I take each one from requirements to deployment across Angular, React, TypeScript, Node.js, Python, APIs, WebSocket and CI/CD.
-- **Lead an agentic TDD workflow.** I sharpen each idea into a spec, then split it into small end-to-end tickets. Agents (Claude Code, Copilot) build each ticket test-first. Every change is reviewed against the spec and our coding standards.
-- **Built an MCP workflow** that every developer on the team now uses. It lets them manage Azure tasks and pull requests from Copilot Chat without leaving the editor.
-- **Set up shared agent rules and context**, so AI output stays consistent across the team.
-- **Cut bundle size by ~67%** (1.97 MB → 655 KB gzipped) with lazy loading and sub-path imports, and added HTTP caching.
-- **Lead and mentor** front-end engineers: technical direction, PR reviews, 1:1s, onboarding, and standards for testing and accessibility.
+- Build web apps with Angular and React. Lately I've also been working across Node.js and Python.
+- Lead a front-end team: technical direction, code reviews, mentoring.
+- Work with AI agents (Claude Code, Copilot) using a spec-first, test-first workflow. I also build MCP tools that help my team use them day to day.
 
 ## Featured project
 
