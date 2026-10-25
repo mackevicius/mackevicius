@@ -6,7 +6,7 @@ I've spent 5+ years building enterprise web apps. I work across Angular, React, 
 
 ## What I do
 
-- Build web apps with Angular and React. Lately I've also been working across Node.js and Python.
+- Build web apps with Typescript and Python.
 - Lead a front-end team: technical direction, code reviews, mentoring.
 - Work with AI agents (Claude Code, Copilot) using a spec-first, test-first workflow. I also build MCP tools that help my team use them day to day.
 
