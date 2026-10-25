@@ -1,34 +1,42 @@
-🚀 Frontend Developer at Reiz Tech | BSc (Hons) in Software Development
+# Hi, I'm Povilas Mackevičius
 
-Hi there! 👋 I'm Povilas Mackevicius, a passionate Frontend Developer with over 5 years of experience in crafting engaging and user-friendly web applications at Reiz Tech. Armed with a Bachelors degree in Software Development from Vilnius Gediminas Technical University, I've honed my skills in web design, coding, testing, debugging, and problem-solving.
+**Senior Software Developer · Front-End Team Lead at [Reiz Tech](https://reiz.tech)** · Vilnius, Lithuania
 
-🛠️ **Experience:**
-In my role at Reiz Tech, I've been instrumental in shaping the technological landscape, specializing in frontend development using technologies like React.js, Typescript, SCSS, and Angular. I've successfully managed project workflows through Azure DevOps, collaborated with cross-functional teams via Teams, and embraced Agile and Scrum methodologies. I played a pivotal role in a significant project for an accounting company, implementing key features and spearheading the migration of projects to React.
+I've spent 5+ years building enterprise web apps. I work across Angular, React, Node.js and Python. I build with AI agents using a spec-driven, test-first (TDD) workflow.
 
-In the subsequent year, I transitioned to Angular, contributing significantly to highly profitable projects for a prominent USA-based client. My responsibilities expanded beyond coding as I took charge of presenting developed features directly to the client, fostering effective communication and ensuring alignment with project objectives.
+## What I do
 
-🛠️ **Key Technologies and Tools:**
-- Angular, React.js, Typescript, SCSS, JavaScript, Next.js
-- Azure DevOps, Teams, Scrum, Agile
-- CosmosDB, Ant Design library, Radix UI, Tailwind, Zeplin, Karma
+- **Ship features end to end** for a leading U.S. professional services platform with hundreds of thousands of users. I take each one from requirements to deployment across Angular, React, TypeScript, Node.js, Python, APIs, WebSocket and CI/CD.
+- **Lead an agentic TDD workflow.** I sharpen each idea into a spec, then split it into small end-to-end tickets. Agents (Claude Code, Copilot) build each ticket test-first. Every change is reviewed against the spec and our coding standards.
+- **Built an MCP workflow** that every developer on the team now uses. It lets them manage Azure tasks and pull requests from Copilot Chat without leaving the editor.
+- **Set up shared agent rules and context**, so AI output stays consistent across the team.
+- **Cut bundle size by ~67%** (1.97 MB → 655 KB gzipped) with lazy loading and sub-path imports, and added HTTP caching.
+- **Lead and mentor** front-end engineers: technical direction, PR reviews, 1:1s, onboarding, and standards for testing and accessibility.
 
-👨‍🎓 **Education:**
-- Bachelors in Software Development | Vilnius Gediminas Technical University | Sep 2019 - Jun 2023
+## Featured project
 
-🚀 **Other Skills:**
-- HeadlessUI, Webpack, DaisyUI, Next.js, Tailwind CSS, AntDesign
-- JavaScript Libraries, GitHub, Software Development
-- REST APIs, Functional Programming
+### [AI Support Desk](https://github.com/mackevicius/ai-support-desk) · [Live demo](https://ai-support-desk-omega.vercel.app/)
 
-I take pride in contributing to the success of Reiz Tech and look forward to continued growth in innovative and challenging projects. Let's connect and build something amazing together! 🌐💻
+A customer support desk where AI answers the easy questions and hands the rest to a person.
 
+- The AI replies on its own only when a public help article clearly covers the question and nothing is risky. Questions about money, account security or staff-only notes, or ones the AI isn't sure about, go to a human agent. The agent gets an AI draft plus a step-by-step "how the AI decided" trail.
+- The hand-off rules are enforced in code, guarded against prompt injection, and measured with saved evaluation runs.
+- **Stack:** Next.js + React · Node.js + Express · Python AI service · PostgreSQL + embeddings · OpenAI · Docker · Playwright · Vercel
 
-📫 You can contact me on: \
-      Gmail: mackevicius.pmac@gmail.com \
-      LinkedIn: https://www.linkedin.com/in/povilas-mackevicius/ \
-      Facebook: Povilas Mackevičius 
+## Tech
 
-<!---
-mackevicius/mackevicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages:** TypeScript, JavaScript, Python, PHP
+**Front end:** Angular, React, Next.js, Tailwind CSS, SCSS
+**Back end and data:** Node.js, FastAPI, PostgreSQL / MySQL, REST, WebSocket
+**AI tooling:** Claude Code, GitHub Copilot, MCP, embeddings / RAG
+**Testing:** Playwright, Vitest, TDD
+**Delivery:** Docker, Git, Azure DevOps, CI/CD
+
+## Education
+
+**Bachelor's (Honors)**, Vilnius Tech University, 2019 – 2023
+Focus: UI/UX design, front-end development, software engineering fundamentals.
+
+## Contact
+
+[Email](mailto:mackevicius.pmac@gmail.com) · [LinkedIn](https://www.linkedin.com/in/povilas-mackevicius/)
